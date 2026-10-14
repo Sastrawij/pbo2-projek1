@@ -1,8 +1,8 @@
 # PBO 2 - Proyek 1 (Laravel)
 
-Nama: <Sukma Sastra Wijaya>
-NIM: <2410010462>
-Kelas: <5B Ti Reg BJB>
+Nama: Sukma Sastra Wijaya
+NIM: 2410010462
+Kelas: 5B Ti Reg BJB
 
 ## Deskripsi
 Proyek 1 mata kuliah PBO 2 mengikuti materi pada repository 
